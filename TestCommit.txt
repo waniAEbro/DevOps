@@ -5,3 +5,5 @@ test diff
 git commit branch dev (conflict)
 
 test conflict branch main (conflict)
+
+git setelah stash
